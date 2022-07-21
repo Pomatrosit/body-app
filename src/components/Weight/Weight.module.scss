@@ -1,0 +1,26 @@
+@import "../../styles/constants.scss";
+
+.root {
+  .title {
+    color: $light-gray;
+  }
+
+  .chartContainer {
+    height: 400px;
+  }
+
+  .hr {
+    margin-bottom: 50px;
+  }
+
+  .btnContainer {
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .modalTitle {
+    margin-bottom: 30px;
+  }
+}
